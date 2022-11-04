@@ -16,9 +16,9 @@
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Video Speed Controller](https://addons.mozilla.org/en-US/firefox/addon/videospeed/)
+- [Vimium-FF](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 - [WebP/AVIF Image Converter](https://addons.mozilla.org/en-US/firefox/addon/webpavif-image-converter/)
 - [YouTube Screenshot](https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot/)
-- [Vimium-FF](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 
 ## Wallets
 
