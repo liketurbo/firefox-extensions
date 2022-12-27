@@ -9,7 +9,6 @@
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 - [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 - [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
-- [Open Image in New Tab](https://addons.mozilla.org/en-US/firefox/addon/open-image-in-new-tab/)
 - [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislike/)
 - [Ruffle](https://addons.mozilla.org/en-US/firefox/addon/ruffle_rs/)
 - [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
